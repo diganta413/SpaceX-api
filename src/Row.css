@@ -1,0 +1,43 @@
+.row{
+    text-align: left;
+    width: 50vw;
+    padding: 5%;
+    box-shadow: 20px white;
+    border: 2px solid #bfcba8;
+    border-radius: 30px;
+    margin-top: 20px;
+    color: white;
+}
+.row h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.details{
+    font-size: 30px;
+}
+.status{
+    font-size: 30px;
+}
+.status span{
+    color: #c0e218;
+}
+h3{
+    font-size: 25px;
+    font-weight: bolder;
+}
+li{
+    font-size: 20px;
+    font-weight: bolder;
+}
+h4{
+    font-size: 20px;
+    font-weight: bolder;
+    color: red;
+}
+li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #1597bb;
+    transition: text-decoration 250ms ease-in;
+    transition: color 250ms ease-in;
+}

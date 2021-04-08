@@ -1,0 +1,12 @@
+.launch{
+    width: 50vw;
+    text-align: left;
+    margin: auto;
+    color: white;
+    font-weight: bolder;
+}
+.launch p{
+    font-size: 25px;
+    font-weight: bold;
+
+}
